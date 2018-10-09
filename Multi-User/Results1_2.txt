@@ -1,0 +1,43 @@
+User 6 has arrived
+User 6 has been allocated resources. Remaining memory: 12 - Remaining processes: 19
+User 5 has arrived
+User 5 has been allocated resources. Remaining memory: 11 - Remaining processes: 11
+User 10 has arrived
+User 10 has been allocated resources. Remaining memory: 8 - Remaining processes: 4
+User 7 has arrived
+User 1 has arrived
+User 8 has arrived
+User 8 has been allocated resources. Remaining memory: 1 - Remaining processes: 3
+User 2 has arrived
+User 6 has finished. Remaining memory: 9 - Remaining processes: 4
+User 9 has arrived
+User 9 has been allocated resources. Remaining memory: 3 - Remaining processes: 3
+User 3 has arrived
+User 10 has finished. Remaining memory: 6 - Remaining processes: 10
+User 8 has finished. Remaining memory: 13 - Remaining processes: 11
+User 7 has been allocated resources. Remaining memory: 6 - Remaining processes: 3
+User 4 has arrived
+User 7 has finished. Remaining memory: 13 - Remaining processes: 11
+User 1 has been allocated resources. Remaining memory: 12 - Remaining processes: 4
+User 5 has finished. Remaining memory: 13 - Remaining processes: 12
+User 2 has been allocated resources. Remaining memory: 7 - Remaining processes: 5
+User 3 has been allocated resources. Remaining memory: 6 - Remaining processes: 0
+User 1 has finished. Remaining memory: 7 - Remaining processes: 7
+User 2 has finished. Remaining memory: 13 - Remaining processes: 14
+User 9 has finished. Remaining memory: 19 - Remaining processes: 15
+User 4 has been allocated resources. Remaining memory: 11 - Remaining processes: 7
+User 4 has finished. Remaining memory: 19 - Remaining processes: 15
+User 3 has finished. Remaining memory: 20 - Remaining processes: 20
+User 1 idle time: 5.03
+User 2 idle time: 6.001
+User 3 idle time: 4.001
+User 4 idle time: 5.002
+User 5 idle time: 0.0
+User 6 idle time: 0.001
+User 7 idle time: 5.028
+User 8 idle time: 0.001
+User 9 idle time: 0.0
+User 10 idle time: 0.0
+
+
+Average idle time: 2.5064

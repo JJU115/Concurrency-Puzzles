@@ -1,0 +1,43 @@
+
+Inserter 1 inserted 1
+
+Inserter 2 inserted 10
+
+Inserter 3 inserted 4
+
+Searcher 5 did not find 9
+
+Searcher 4 found 4
+
+Deleter 6 did not find 5
+
+Deleter 7 removed 1
+
+Inserter 8 inserted 6
+
+Inserter 9 inserted 7
+
+Searcher 10 found 7
+
+Thread 1 idle time: 0.000000
+
+Thread 2 idle time: 0.000000
+
+Thread 3 idle time: 0.000000
+
+Thread 4 idle time: 0.000000
+
+Thread 5 idle time: 0.000000
+
+Thread 6 idle time: 0.000000
+
+Thread 7 idle time: 0.000000
+
+Thread 8 idle time: 0.000000
+
+Thread 9 idle time: 0.000000
+
+Thread 10 idle time: 0.000000
+
+
+Average idle time: 0.000000

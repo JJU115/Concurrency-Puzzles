@@ -1,0 +1,52 @@
+Thread 2 has arrived
+Thread 2 now in the critical section
+Thread 10 has arrived
+Thread 10 now in the critical section
+Thread 4 has arrived
+Thread 4 now in the critical section
+Thread 1 has arrived
+Thread 1 now in the critical section
+Thread 7 has arrived
+Thread 5 has arrived
+Thread 9 has arrived
+Thread 3 has arrived
+Thread 4 has left the critical section
+Thread 6 has arrived
+Thread 7 now in the critical section
+Thread 2 has left the critical section
+Thread 8 has arrived
+Thread 5 now in the critical section
+Thread 10 has left the critical section
+Thread 9 now in the critical section
+Thread 1 has left the critical section
+Thread 3 now in the critical section
+Thread 5 has left the critical section
+Thread 6 now in the critical section
+Thread 7 has left the critical section
+Thread 8 now in the critical section
+Thread 9 has left the critical section
+Thread 3 has left the critical section
+Thread 6 has left the critical section
+Thread 8 has left the critical section
+
+Thread 1 idle time: 0.000000
+
+Thread 2 idle time: 0.000000
+
+Thread 3 idle time: 3.012000
+
+Thread 4 idle time: 0.000000
+
+Thread 5 idle time: 1.999000
+
+Thread 6 idle time: 3.005000
+
+Thread 7 idle time: 1.001000
+
+Thread 8 idle time: 5.013000
+
+Thread 9 idle time: 2.017000
+
+Thread 10 idle time: 0.000000
+
+Average idle time: 1.604700

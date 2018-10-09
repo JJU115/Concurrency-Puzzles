@@ -1,0 +1,63 @@
+
+Inserter 1 inserted 4
+
+Searcher 2 did not find 7
+
+Inserter 3 inserted 1
+
+Inserter 4 inserted 6
+
+Inserter 5 inserted 9
+
+Deleter 6 removed 9
+
+Inserter 7 inserted 3
+
+Searcher 8 found 1
+
+Inserter 9 inserted 10
+
+Searcher 10 did not find 9
+
+Deleter 11 did not find 7
+
+Deleter 12 did not find 7
+
+Deleter 13 removed 1
+
+Inserter 14 inserted 4
+
+Deleter 15 did not find 8
+
+Thread 1 idle time: 0.000000
+
+Thread 2 idle time: 0.000000
+
+Thread 3 idle time: 0.000000
+
+Thread 4 idle time: 0.000000
+
+Thread 5 idle time: 0.000000
+
+Thread 6 idle time: 0.000000
+
+Thread 7 idle time: 0.000000
+
+Thread 8 idle time: 0.000000
+
+Thread 9 idle time: 0.000000
+
+Thread 10 idle time: 0.000000
+
+Thread 11 idle time: 0.000000
+
+Thread 12 idle time: 0.000000
+
+Thread 13 idle time: 0.000000
+
+Thread 14 idle time: 0.000000
+
+Thread 15 idle time: 0.000000
+
+
+Average idle time: 0.000000

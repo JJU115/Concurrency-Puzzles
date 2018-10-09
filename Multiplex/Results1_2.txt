@@ -1,0 +1,76 @@
+Thread 14 has arrived
+Thread 14 now in the critical section
+Thread 3 has arrived
+Thread 3 now in the critical section
+Thread 12 has arrived
+Thread 12 now in the critical section
+Thread 1 has arrived
+Thread 1 now in the critical section
+Thread 5 has arrived
+Thread 11 has arrived
+Thread 13 has arrived
+Thread 4 has arrived
+Thread 14 has left the critical section
+Thread 5 now in the critical section
+Thread 2 has arrived
+Thread 1 has left the critical section
+Thread 12 has left the critical section
+Thread 11 now in the critical section
+Thread 13 now in the critical section
+Thread 9 has arrived
+Thread 8 has arrived
+Thread 6 has arrived
+Thread 3 has left the critical section
+Thread 4 now in the critical section
+Thread 10 has arrived
+Thread 7 has arrived
+Thread 15 has arrived
+Thread 4 has left the critical section
+Thread 2 now in the critical section
+Thread 13 has left the critical section
+Thread 8 now in the critical section
+Thread 11 has left the critical section
+Thread 9 now in the critical section
+Thread 2 has left the critical section
+Thread 5 has left the critical section
+Thread 10 now in the critical section
+Thread 6 now in the critical section
+Thread 9 has left the critical section
+Thread 8 has left the critical section
+Thread 15 now in the critical section
+Thread 7 now in the critical section
+Thread 6 has left the critical section
+Thread 7 has left the critical section
+Thread 15 has left the critical section
+Thread 10 has left the critical section
+
+Thread 1 idle time: 0.000000
+
+Thread 2 idle time: 4.026000
+
+Thread 3 idle time: 0.000000
+
+Thread 4 idle time: 2.011000
+
+Thread 5 idle time: 2.020000
+
+Thread 6 idle time: 8.035000
+
+Thread 7 idle time: 11.029000
+
+Thread 8 idle time: 5.024000
+
+Thread 9 idle time: 6.027000
+
+Thread 10 idle time: 7.032000
+
+Thread 11 idle time: 1.014000
+
+Thread 12 idle time: 0.000000
+
+Thread 13 idle time: 1.014000
+
+Thread 14 idle time: 0.000000
+
+Thread 15 idle time: 11.029000
+Average Idle time: 3.884067

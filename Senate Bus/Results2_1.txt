@@ -1,0 +1,49 @@
+Passenger 3 has arrived
+Passenger 9 has arrived
+Passenger 1 has arrived
+Passenger 4 has arrived
+Bus 1 has arrived
+Passenger 9 now boarding
+Passenger 1 now boarding
+Passenger 4 now boarding
+Passenger 3 now boarding
+Bus 1 now leaving
+Passenger 6 has arrived
+Passenger 2 has arrived
+Passenger 10 has arrived
+Passenger 7 has arrived
+Bus 2 has arrived
+Passenger 6 now boarding
+Passenger 2 now boarding
+Passenger 7 now boarding
+Passenger 10 now boarding
+Bus 2 now leaving
+Passenger 8 has arrived
+Passenger 5 has arrived
+Bus 3 has arrived
+Passenger 8 now boarding
+Passenger 5 now boarding
+Bus 3 now leaving
+
+Passenger 1 idle time: 1.001000
+
+Passenger 2 idle time: 2.002000
+
+Passenger 3 idle time: 4.002000
+
+Passenger 4 idle time: 1.001000
+
+Passenger 5 idle time: 4.001000
+
+Passenger 6 idle time: 4.002000
+
+Passenger 7 idle time: 2.001000
+
+Passenger 8 idle time: 4.001000
+
+Passenger 9 idle time: 2.000000
+
+Passenger 10 idle time: 2.001000
+
+
+Average idle time: 2.601200

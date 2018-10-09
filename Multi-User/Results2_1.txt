@@ -1,0 +1,77 @@
+User 2 has arrived
+User 2 has been allocated resources. Memory remaining: 17, Processes remaining: 9
+User 9 has arrived
+User 9 has been allocated resources. Memory remaining: 15, Processes remaining: 3
+User 8 has arrived
+User 14 has arrived
+User 6 has arrived
+User 11 has arrived
+User 12 has arrived
+User 2 has finished. Memory remaining: 18, Processes remaining: 14
+User 8 has been allocated resources. Memory remaining: 16, Processes remaining: 10
+User 7 has arrived
+User 14 has been allocated resources. Memory remaining: 13, Processes remaining: 5
+User 6 has been allocated resources. Memory remaining: 4, Processes remaining: 3
+User 1 has arrived
+User 5 has arrived
+User 10 has arrived
+User 15 has arrived
+User 13 has arrived
+User 3 has arrived
+User 4 has arrived
+User 9 has finished. Memory remaining: 6, Processes remaining: 9
+User 5 has been allocated resources. Memory remaining: 5, Processes remaining: 5
+User 10 has been allocated resources. Memory remaining: 1, Processes remaining: 3
+User 8 has finished. Memory remaining: 3, Processes remaining: 7
+User 15 has been allocated resources. Memory remaining: 2, Processes remaining: 1
+User 14 has finished. Memory remaining: 5, Processes remaining: 6
+User 6 has finished. Memory remaining: 14, Processes remaining: 8
+User 13 has been allocated resources. Memory remaining: 11, Processes remaining: 1
+User 10 has finished. Memory remaining: 15, Processes remaining: 3
+User 15 has finished. Memory remaining: 16, Processes remaining: 9
+User 12 has been allocated resources. Memory remaining: 8, Processes remaining: 0
+User 5 has finished. Memory remaining: 9, Processes remaining: 4
+User 13 has finished. Memory remaining: 12, Processes remaining: 11
+User 7 has been allocated resources. Memory remaining: 5, Processes remaining: 1
+User 12 has finished. Memory remaining: 13, Processes remaining: 10
+User 3 has been allocated resources. Memory remaining: 10, Processes remaining: 0
+User 3 has finished. Memory remaining: 13, Processes remaining: 10
+User 7 has finished. Memory remaining: 20, Processes remaining: 20
+User 11 has been allocated resources. Memory remaining: 19, Processes remaining: 8
+User 11 has finished. Memory remaining: 20, Processes remaining: 20
+User 1 has been allocated resources. Memory remaining: 10, Processes remaining: 9
+User 1 has finished. Memory remaining: 20, Processes remaining: 20
+User 4 has been allocated resources. Memory remaining: 12, Processes remaining: 8
+User 4 has finished. Memory remaining: 20, Processes remaining: 20
+
+User 1 idle time: 28.008000
+
+User 2 idle time: 0.000000
+
+User 3 idle time: 18.007000
+
+User 4 idle time: 36.008000
+
+User 5 idle time: 2.003000
+
+User 6 idle time: 4.001000
+
+User 7 idle time: 17.005000
+
+User 8 idle time: 7.000000
+
+User 9 idle time: 0.000000
+
+User 10 idle time: 2.004000
+
+User 11 idle time: 25.006000
+
+User 12 idle time: 13.003000
+
+User 13 idle time: 5.003000
+
+User 14 idle time: 5.000000
+
+User 15 idle time: 4.001000
+
+Average idle time: 11.069933

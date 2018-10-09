@@ -1,0 +1,52 @@
+User 6 has arrived
+User 6 has been allocated resources. Memory remaining: 12, Processes remaining: 19
+User 5 has arrived
+User 5 has been allocated resources. Memory remaining: 11, Processes remaining: 11
+User 10 has arrived
+User 10 has been allocated resources. Memory remaining: 8, Processes remaining: 4
+User 7 has arrived
+User 1 has arrived
+User 2 has arrived
+User 8 has arrived
+User 6 has finished. Memory remaining: 16, Processes remaining: 5
+User 8 has been allocated resources. Memory remaining: 9, Processes remaining: 4
+User 9 has arrived
+User 3 has arrived
+User 10 has finished. Memory remaining: 12, Processes remaining: 11
+User 7 has been allocated resources. Memory remaining: 5, Processes remaining: 3
+User 8 has finished. Memory remaining: 12, Processes remaining: 4
+User 9 has been allocated resources. Memory remaining: 6, Processes remaining: 3
+User 4 has arrived
+User 7 has finished. Memory remaining: 13, Processes remaining: 11
+User 1 has been allocated resources. Memory remaining: 12, Processes remaining: 4
+User 5 has finished. Memory remaining: 13, Processes remaining: 12
+User 2 has been allocated resources. Memory remaining: 7, Processes remaining: 5
+User 3 has been allocated resources. Memory remaining: 6, Processes remaining: 0
+User 1 has finished. Memory remaining: 7, Processes remaining: 7
+User 2 has finished. Memory remaining: 13, Processes remaining: 14
+User 4 has been allocated resources. Memory remaining: 5, Processes remaining: 6
+User 9 has finished. Memory remaining: 11, Processes remaining: 7
+User 4 has finished. Memory remaining: 19, Processes remaining: 15
+User 3 has finished. Memory remaining: 20, Processes remaining: 20
+
+User 1 idle time: 5.003000
+
+User 2 idle time: 6.001000
+
+User 3 idle time: 4.001000
+
+User 4 idle time: 5.000000
+
+User 5 idle time: 0.000000
+
+User 6 idle time: 0.001000
+
+User 7 idle time: 5.002000
+
+User 8 idle time: 0.003000
+
+User 9 idle time: 2.003000
+
+User 10 idle time: 0.000000
+
+Average idle time: 2.701400

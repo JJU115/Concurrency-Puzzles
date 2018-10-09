@@ -1,0 +1,46 @@
+Inserter 1 inserted 4
+Searcher 2 did not find 7
+[4]
+[4]
+Inserter 3 inserted 1
+[4, 1]
+Inserter 5 inserted 9
+[4, 1, 9]
+Inserter 4 inserted 6
+[4, 1, 9, 6]
+Deleter 6 removed 9
+[4, 1, 6]
+Inserter 7 inserted 3
+[4, 1, 6, 3]
+Searcher 8 found 1
+[4, 1, 6, 3]
+Inserter 9 inserted 10
+[4, 1, 6, 3, 10]
+Searcher 10 did not find 9
+[4, 1, 6, 3, 10]
+Deleter 11 could not find 7
+[4, 1, 6, 3, 10]
+Deleter 12 could not find 7
+[4, 1, 6, 3, 10]
+Deleter 13 removed 1
+[4, 6, 3, 10]
+Inserter 14 inserted 4
+[4, 6, 3, 10, 4]
+Deleter 15 could not find 8
+[4, 6, 3, 10, 4]
+Thread 1 idle time: 0.001
+Thread 2 idle time: 0.001
+Thread 3 idle time: 0.01
+Thread 4 idle time: 0.031
+Thread 5 idle time: 0.021
+Thread 6 idle time: 0.042
+Thread 7 idle time: 0.052
+Thread 8 idle time: 0.051
+Thread 9 idle time: 0.062
+Thread 10 idle time: 0.062
+Thread 11 idle time: 0.072
+Thread 12 idle time: 0.082
+Thread 13 idle time: 0.094
+Thread 14 idle time: 0.103
+Thread 15 idle time: 0.114
+Average idle time: 0.053200000000000004

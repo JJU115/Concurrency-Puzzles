@@ -1,0 +1,73 @@
+Student 7 has arrived
+Student 7 now entering room
+Student 9 has arrived
+Student 9 now entering room
+Student 14 has arrived
+Student 14 now entering room
+Dean has arrived
+Dean is leaving
+Dean has arrived
+Student 9 has left
+Student 5 has arrived
+Student 12 has arrived
+Dean is leaving
+Student 5 now entering room
+Student 12 now entering room
+Student 11 has arrived
+Student 11 now entering room
+Student 3 has arrived
+Student 3 now entering room
+Student 8 has arrived
+Student 8 now entering room
+Student 10 has arrived
+Student 10 now entering room
+Student 3 has left
+Student 7 has left
+Dean has arrived
+Dean entering room
+Student 12 has left
+Student 11 has left
+Student 14 has left
+Student 5 has left
+Student 4 has arrived
+Student 1 has arrived
+Student 6 has arrived
+Student 2 has arrived
+Student 13 has arrived
+Student 15 has arrived
+Student 8 has left
+Student 10 has left
+Dean leaving room
+Dean is leaving
+Student 4 now entering room
+Student 1 now entering room
+Student 6 now entering room
+Student 2 now entering room
+Student 13 now entering room
+Student 15 now entering room
+Student 13 has left
+Dean has arrived
+Dean entering room
+Student 1 has left
+Student 6 has left
+Student 4 has left
+Student 2 has left
+Student 15 has left
+Dean leaving room
+Dean is leaving
+Thread 1 idle time: 3.003
+Thread 2 idle time: 3.004
+Thread 3 idle time: 0.001
+Thread 4 idle time: 3.003
+Thread 5 idle time: 0.002
+Thread 6 idle time: 3.003
+Thread 7 idle time: 0.001
+Thread 8 idle time: 0.002
+Thread 9 idle time: 0.0
+Thread 10 idle time: 0.0
+Thread 11 idle time: 0.001
+Thread 12 idle time: 0.003
+Thread 13 idle time: 2.003
+Thread 14 idle time: 0.001
+Thread 15 idle time: 2.003
+Average wait time: 1.0686666666666667

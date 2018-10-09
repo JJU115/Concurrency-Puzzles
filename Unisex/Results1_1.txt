@@ -1,0 +1,62 @@
+Male thread 13 entering bathroom
+Male thread 5 entering bathroom
+Male thread 9 entering bathroom
+Male thread 5 leaving bathroom
+Male thread 13 leaving bathroom
+Male thread 9 leaving bathroom
+Female thread 7 entering bathroom
+Female thread 11 entering bathroom
+Female thread 8 entering bathroom
+Female thread 11 leaving bathroom
+Female thread 8 leaving bathroom
+Female thread 7 leaving bathroom
+Male thread 6 entering bathroom
+Male thread 10 entering bathroom
+Male thread 15 entering bathroom
+Male thread 15 leaving bathroom
+Male thread 10 leaving bathroom
+Male thread 6 leaving bathroom
+Female thread 3 entering bathroom
+Female thread 1 entering bathroom
+Female thread 4 entering bathroom
+Female thread 1 leaving bathroom
+Female thread 3 leaving bathroom
+Female thread 4 leaving bathroom
+Male thread 2 entering bathroom
+Male thread 12 entering bathroom
+Male thread 2 leaving bathroom
+Male thread 12 leaving bathroom
+Female thread 14 entering bathroom
+Female thread 14 leaving bathroom
+
+Thread 1 idle time: 23.006000
+
+Thread 2 idle time: 34.007000
+
+Thread 3 idle time: 23.004000
+
+Thread 4 idle time: 31.005000
+
+Thread 5 idle time: 0.000000
+
+Thread 6 idle time: 19.002000
+
+Thread 7 idle time: 7.002000
+
+Thread 8 idle time: 9.002000
+
+Thread 9 idle time: 0.000000
+
+Thread 10 idle time: 18.002000
+
+Thread 11 idle time: 6.002000
+
+Thread 12 idle time: 36.006000
+
+Thread 13 idle time: 0.000000
+
+Thread 14 idle time: 34.006000
+
+Thread 15 idle time: 18.002000
+
+Average idle time: 17.203067

@@ -1,0 +1,42 @@
+Male thread 2 entering bathroom
+Male thread 6 entering bathroom
+Male thread 9 entering bathroom
+Male thread 6 leaving bathroom
+Male thread 2 leaving bathroom
+Male thread 9 leaving bathroom
+Female thread 7 entering bathroom
+Female thread 1 entering bathroom
+Female thread 4 entering bathroom
+Female thread 4 leaving bathroom
+Female thread 1 leaving bathroom
+Female thread 7 leaving bathroom
+Male thread 5 entering bathroom
+Male thread 8 entering bathroom
+Male thread 8 leaving bathroom
+Male thread 5 leaving bathroom
+Female thread 10 entering bathroom
+Female thread 3 entering bathroom
+Female thread 10 leaving bathroom
+Female thread 3 leaving bathroom
+
+Thread 1 idle time: 5.002000
+
+Thread 2 idle time: 0.000000
+
+Thread 3 idle time: 23.003000
+
+Thread 4 idle time: 2.001000
+
+Thread 5 idle time: 10.003000
+
+Thread 6 idle time: 0.000000
+
+Thread 7 idle time: 0.001000
+
+Thread 8 idle time: 16.003000
+
+Thread 9 idle time: 0.000000
+
+Thread 10 idle time: 24.002000
+
+Average idle time: 8.001500

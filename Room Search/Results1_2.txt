@@ -1,0 +1,82 @@
+Student 7 has arrived
+Student 7 is entering room
+Student 14 has arrived
+Student 14 is entering room
+Student 9 has arrived
+Student 9 is entering room
+Student 5 has arrived
+Student 5 is entering room
+Dean is entering room
+Student 9 has left
+Student 12 has arrived
+Student 3 has arrived
+Student 8 has arrived
+Student 11 has arrived
+Student 10 has arrived
+Student 7 has left
+Student 14 has left
+Student 5 has left
+Dean is leaving room
+Student 11 is entering room
+Student 8 is entering room
+Student 12 is entering room
+Student 3 is entering room
+Student 10 is entering room
+Student 4 has arrived
+Student 4 is entering room
+Student 1 has arrived
+Student 1 is entering room
+Student 2 has arrived
+Student 2 is entering room
+Student 6 has arrived
+Student 6 is entering room
+Student 3 has left
+Student 15 has arrived
+Student 15 is entering room
+Student 13 has arrived
+Student 13 is entering room
+Student 11 has left
+Student 12 has left
+Dean is entering room
+Student 13 has left
+Student 1 has left
+Student 10 has left
+Student 8 has left
+Student 6 has left
+Student 4 has left
+Student 2 has left
+Student 15 has left
+Dean is leaving room
+
+Thread 1 idle time: 0.000000
+
+Thread 2 idle time: 0.000000
+
+Thread 3 idle time: 2.002000
+
+Thread 4 idle time: 0.000000
+
+Thread 5 idle time: 0.000000
+
+Thread 6 idle time: 0.000000
+
+Thread 7 idle time: 0.000000
+
+Thread 8 idle time: 2.001000
+
+Thread 9 idle time: 0.000000
+
+Thread 10 idle time: 1.001000
+
+Thread 11 idle time: 2.001000
+
+Thread 12 idle time: 4.000000
+
+Thread 13 idle time: 0.000000
+
+Thread 14 idle time: 0.000000
+
+Thread 15 idle time: 0.000000
+
+
+Average idle time: 0.733667
