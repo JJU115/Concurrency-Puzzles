@@ -3,7 +3,7 @@
 	The style of solution is identical to SenateBus1.java but implemented in a different language.
 	
 	As with SenateBus1.java two files must be provided on the command line at execution containing
-	thread information. Invoke as: SenateBus2 <passenger-file <bus-file>
+	thread information. Invoke as: SenateBus2 <passenger-file> <bus-file>
 	
 	Author: Justin Underhay	
 */
