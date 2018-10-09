@@ -1,36 +1,67 @@
 Passenger 5 has arrived
 Passenger 10 has arrived
-Passenger 2 has arrived
 Passenger 8 has arrived
+Passenger 2 has arrived
 Passenger 12 has arrived
-Passenger 7 has arrived
-Passenger 9 has arrived
 Passenger 15 has arrived
+Passenger 9 has arrived
+Passenger 7 has arrived
 Passenger 3 has arrived
 Bus 1 has arrived
-Passenger 15 now boarding
-Passenger 2 now boarding
 Passenger 5 now boarding
-Passenger 10 now boarding
 Passenger 12 now boarding
-Passenger 3 now boarding
+Passenger 15 now boarding
+Passenger 10 now boarding
+Passenger 2 now boarding
 Passenger 7 now boarding
-Passenger 9 now boarding
 Passenger 8 now boarding
+Passenger 3 now boarding
+Passenger 9 now boarding
 Bus 1 now leaving
 Passenger 6 has arrived
 Passenger 4 has arrived
 Passenger 13 has arrived
 Passenger 14 has arrived
-Passenger 1 has arrived
 Passenger 11 has arrived
+Passenger 1 has arrived
 Bus 2 has arrived
-Passenger 14 now boarding
 Passenger 4 now boarding
-Passenger 11 now boarding
-Passenger 6 now boarding
-Passenger 1 now boarding
 Passenger 13 now boarding
+Passenger 14 now boarding
+Passenger 6 now boarding
+Passenger 11 now boarding
+Passenger 1 now boarding
 Bus 2 now leaving
-Bus 3 has arrived
-Bus 3 leaving with no passengers
+
+Passenger 1 idle time: 1.010000
+
+Passenger 2 idle time: 3.006000
+
+Passenger 3 idle time: 1.008000
+
+Passenger 4 idle time: 3.003000
+
+Passenger 5 idle time: 3.994000
+
+Passenger 6 idle time: 3.003000
+
+Passenger 7 idle time: 2.008000
+
+Passenger 8 idle time: 3.006000
+
+Passenger 9 idle time: 2.008000
+
+Passenger 10 idle time: 3.006000
+
+Passenger 11 idle time: 1.010000
+
+Passenger 12 idle time: 2.008000
+
+Passenger 13 idle time: 2.010000
+
+Passenger 14 idle time: 2.010000
+
+Passenger 15 idle time: 2.008000
+
+
+Average idle time: 2.273200
