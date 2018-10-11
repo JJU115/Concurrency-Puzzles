@@ -41,7 +41,7 @@ and insertions.
 <b>Input:</b> 1st Arg - File containing number of threads to simulate and on each subsequent line the ID, thread type as a single char (search -> 'S', insert -> 'I', delete -> 'D'), and value to search for/insert/delete of each thread.<br>
 
 Java file uses TestThreads.txt and TestThreads4.txt<br>
-C file uses TestThreads3.txt and TestThreads2.txt
+C file uses TestThreads3.txt and TestThreads2.txt<br>
 TestThreads.txt and TestThreads3.txt are equivalent as are TestThreads4.txt and TestThreads2.txt
 
 <b>Invocation:</b> SID1 <input_file> or java SID2 <input_file>
@@ -59,7 +59,7 @@ There are two types of threads: Male and Female, which must share access to a un
 <b>Input:</b> 1st Arg - File containing number of threads to simulate and on each subsequent line the ID, thread type as a single char (male -> 'M', female -> 'F'), arrival time in seconds, and duration time in bathroom in seconds of each thread.<br>   
 
 C file uses TestThreads.txt and TestThreads2.txt<br>
-Java file uses TestThreads3.txt and TestThreads4.txt
+Java file uses TestThreads3.txt and TestThreads4.txt<br>
 TestThreads.txt and TestThreads3.txt are equivalent as are TestThreads4.txt and TestThreads2.txt
 
 <b>Invocation:</b> Unisex <input_file> or java Unisex <input_file>
@@ -80,7 +80,7 @@ bus arrives when there are no riders, it should depart immediately.
 2nd Arg - File containing number of bus threads to simulate and on each subsequent line the ID and arrival time in seconds of each thread.<br>
 
 C file uses TestThreads.txt and TestThreads2.txt<br>
-Java file uses TestThreads3.txt and TestThreads4.txt
+Java file uses TestThreads3.txt and TestThreads4.txt<br>
 TestThreads.txt and TestThreads3.txt are equivalent as are TestThreads4.txt and TestThreads2.txt
 
 <b>Invocation:</b> SenateBus1 <passenger_file> <bus_file> or java SenateBus2 <passenger_file> <bus_file>
@@ -105,7 +105,7 @@ among multiple deans.
 2nd Arg - A positive integer used for the interval the dean thread sleeps for before checking the room.<br>
 
 C file uses TestThreads2.txt and TestThreads4.txt<br>
-Java file uses TestThreads.txt and TestThreads3.txt
+Java file uses TestThreads.txt and TestThreads3.txt<br>
 TestThreads3.txt and TestThreads4.txt are equivalent as are TestThreads.txt and TestThreads2.txt
 
 <b>Invocation:</b> RoomSearch1 <input_file> <dean_interval> or java RoomSearch2 <input_file> <dean_interval>
@@ -123,7 +123,7 @@ As long as some resources are available a new user is allowed to enter provided 
 3rd Arg - The total amount of processes available for allocation as a positive integer.<br>
 
 C file uses TestThreads2.txt and TestThreads3.txt<br>
-Java file uses TestThreads.txt and TestThreads4.txt
+Java file uses TestThreads.txt and TestThreads4.txt<br>
 TestThreads3.txt and TestThreads.txt are equivalent as are TestThreads4.txt and TestThreads2.tx
 
 <b>Invocation:</b> java MultiUser1 <input_file> <memory_available> <processes_available> or <br>MultiUser2 <input_file> <memory_available> <processes_available>
