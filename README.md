@@ -3,7 +3,9 @@ Implementations of potential solutions to various synchronization/concurrency pu
 
 Each problem has 2 potential implemented solutions in either the C language using POSIX pthreads or the Java language using an extension of the Thread class.
 
-Each problem allows the user to specify the number of threads to execute in parallel along with their characteristics which must be provided in an input file. Each problem has 2 different test files to use as demonstrations. Some problems require additional parameters to be specified at program execution. 
+Each problem allows the user to specify the number of threads to execute in parallel along with their characteristics which must be provided in an input file. Each problem has 2 different test files to use as demonstrations. Some problems require additional parameters to be specified at program execution.
+
+Output results on running test files for both implementations are included with all problems. The file Resultsi_j.txt lists the output for running implementation i on the jth test file. For example in the search-insert-delete puzzle, Results1_2.txt lists the output of running SID1.c with its second provided test file, TestThreads2.txt. 
 
 <b>IMPORTANT: C programs will require comma separated value files, Java programs will require space separated value files.</b>
 Execute programs at the command line.
